@@ -1,11 +1,11 @@
 <div align="center">
 
 # 🛡️ CyberShield — Network Security Management System
+**☕ Language: Java &nbsp;|&nbsp;
+🧠 Paradigm: OOP (2nd Semester) &nbsp;|&nbsp; 
+🏛️ University of Sindh, Jamshoro**
 
-![Java](https://shields.io)
-![OOP](https://shields.io)
-![University](https://shields.io)
-
+  
 **A modular, console-based Java application simulating core cybersecurity operations through clean Object-Oriented Programming (OOP) architecture.**
 
 </div>
